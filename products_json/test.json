@@ -1,0 +1,17 @@
+{
+  "Name": "",
+  "Cost": "",
+  "Lore": "",
+  "BG_url": "",
+  "BG_col": "",
+  "_Frame": {
+    "Style": "",
+    "Color": "",
+    "tide" : false
+  },
+  "Item": {
+    "url_item": "",
+    "url_lore": ""
+  },
+  "command": ""
+}

@@ -1,0 +1,26 @@
+{
+  "token": "MTA2MzEzNjAzNDM2MTE4NDQwNg.G6LkRc.N8YIgVDDoq8AvyQmE-kgiarf1qidKz4kzOITts",
+  "prefix": "!",
+  "Channels": {
+    "general": "970589128355905539",
+    "test": "980015893612474399"
+  },
+  "Roles": {
+    "default_role": 1063435954146250814,
+    "\uD83E\uDD2C": 1063401301800652840,
+    "\uD83D\uDC0D": 1063401622010613801,
+    "\uD83D\uDC18": 1063401622010613801,
+    "\uD83C\uDFAE": 1063401622010613801,
+    "\uD83C\uDDF7\uD83C\uDDFA": 1063433923968893049,
+    "\uD83C\uDDFA\uD83C\uDDF2": 1063433997356634132
+  },
+  "Posts_ids": {
+    "give_role_on_reaction": 1063394348877762561,
+    "give_lang_on_reaction": 1063432294452436992
+  },
+  "max_roles": 5,
+  "locals": [
+    "ru",
+    "en"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "balance": "your balance: ",
+  "!help": [
+    "Hi, I'm your server guide!",
+    "We will analyze the commands and my functions together...\n",
+    ">   !Game the command allows you to activate the game from the list\n",
+    "#   !Item <attached json file> allows you to install an item in the store\n",
+    ">   /balance or /bal allows you to find out the balance on the server\n",
+    "#   !kick <user> <reason> kicks from the server\n",
+    "#   !ban <user> <reason> bans the player for the time specified by the reason\n",
+
+    " the translation was made according to your language\uD83D\uDE42"
+  ],
+  "Item_error": [
+    "Invalid file format!",
+    "try using json"
+  ],
+  "tic_tac_toy": "Choose a ping opponent! And try...",
+  "question_start_game": "You're going to play? yes-👍",
+  "error_game_user": "This is not id or ping user",
+  "user": "User",
+  "accept": "Accept",
+  "!game": [
+    "Games this server:",
+    "!XO <user> - tic tac toy\n"
+  ]
+}
